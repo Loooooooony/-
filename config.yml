@@ -1,0 +1,4 @@
+apply_only_if_arabic: true
+wrap_with_direction_marks: true
+convert_to_eastern_digits: false
+only_bedrock_players: false
