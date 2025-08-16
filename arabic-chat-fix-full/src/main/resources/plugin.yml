@@ -1,0 +1,16 @@
+name: ArabicChatFix
+main: com.example.arabicfix.ArabicChatFixPlugin
+version: 1.0.0
+api-version: 1.21
+author: you
+commands:
+  arabicfix:
+    description: Toggle Arabic fix or reload config
+    usage: /arabicfix <reload|toggle>
+permissions:
+  arabicfix.use:
+    default: true
+  arabicfix.bypass:
+    default: false
+  arabicfix.admin:
+    default: op
